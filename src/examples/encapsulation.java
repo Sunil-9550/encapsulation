@@ -1,8 +1,8 @@
 package examples;
 
 public class encapsulation {
-	private int id=23;
-	private String name="4444";
+	private int id=24;
+	private String name="sunil kumar reddy lingala";
 	public int getId() {
 		return id;
 	}
